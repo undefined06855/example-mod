@@ -10,7 +10,8 @@
             "request": "launch",
             "program": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash\\GeometryDash.exe",
             "cwd": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash",
-            "symbolSearchPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash"
+            "symbolSearchPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash",
+            "requireExactSource": false
         }
     ]
 }
