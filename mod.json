@@ -1,20 +1,20 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
-	},
+    "geode": "$GEODE_VERSION",
+    "gd": {
+        "win": "2.2074",
+        "android": "2.2074",
+        "mac": "2.2074",
+        "ios": "2.2074"
+    },
 
-	"version": "$MOD_VERSION",
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"tags": [],
+    "version": "$MOD_VERSION",
+    "id": "$MOD_ID",
+    "name": "$MOD_NAME",
+    "developer": "$MOD_DEVELOPER",
+    "description": "$MOD_DESCRIPTION",
+    "tags": [],
 
-	"links": {
-		"source": "https://github.com/undefined06855/example-mod"
-	}
+    "links": {
+        "source": "https://github.com/undefined06855/example-mod"
+    }
 }
