@@ -7,7 +7,7 @@
 		"ios": "2.2091"
 	},
 
-    "version": "{{ id }}",
+    "version": "{{ version }}",
     "id": "{{ id }}",
     "name": "{{ name }}",
     "developer": "{{ developer }}",
