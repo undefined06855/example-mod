@@ -6,12 +6,15 @@
 		"mac": "2.2091",
 		"ios": "2.2091"
 	},
-	"id": "{{ id }}",
-	"name": "{{ name }}",
-	"version": "{{ version }}",
-	"developer": "{{ developer }}",
-	"description": "{{ description }}",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+
+    "version": "{{ id }}",
+    "id": "{{ id }}",
+    "name": "{{ name }}",
+    "developer": "{{ developer }}",
+    "description": "{{ description }}",
+    "tags": [],
+
+    "links": {
+        "source": "https://github.com/undefined06855/example-mod"
+    }
 }
