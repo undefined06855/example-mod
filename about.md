@@ -1,4 +1,4 @@
-# Example Mod
+# {{ name }}
 by [undefined0](user:13351341)
 
 ---

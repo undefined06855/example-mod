@@ -8,7 +8,7 @@ else()
     set(CMAKE_OSX_ARCHITECTURES "arm64;x86_64")
 endif()
 
-project(Template VERSION 1.0.0)
+project({{ escaped_name }} VERSION 1.0.0)
 
 file(GLOB_RECURSE SOURCES
     src/*.cpp
@@ -23,5 +23,4 @@ endif()
 
 add_subdirectory($ENV{GEODE_SDK} ${CMAKE_CURRENT_BINARY_DIR}/geode)
 
-# Set up dependencies, resources, and link Geode.
 setup_geode_mod(${PROJECT_NAME})

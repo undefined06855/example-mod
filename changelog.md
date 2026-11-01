@@ -1,3 +1,3 @@
-# Example Mod
-## v1.0.0
+# {{ name }}
+## {{ version }}
 - Initial release
